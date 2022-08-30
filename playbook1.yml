@@ -4,5 +4,5 @@
   tasks:
     - name: copy file
       copy:
-            src: /home/ali/index.html
+            src: index.html
             dest: /home/ali/Desktop
